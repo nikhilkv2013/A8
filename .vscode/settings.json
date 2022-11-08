@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/53411e57-7b56-4bee-9bea-f9ef10c361af/appservices/subscriptions/53411e57-7b56-4bee-9bea-f9ef10c361af/resourceGroups/app/providers/Microsoft.Web/sites/WExPress",
+    "appService.deploySubpath": "."
+}
